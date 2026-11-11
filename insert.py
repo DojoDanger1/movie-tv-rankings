@@ -1,7 +1,8 @@
 # poster website: http://www.impawards.com
+# poster website (jltg): https://www.thetvdb.com/series/jet-lag-the-game#seasons   
 
-POSITION = 21
-LIST = 'starwars'
+POSITION = 12
+LIST = 'mcu'
 TYPE = 'ranking' # ranking or timeline
 
 with open(f'entries/{LIST}.js', 'r') as f:
